@@ -1,2 +1,1 @@
-# Beirut-Auto
-E-commerce website that sells car keys and auto diagnostic tools 
+<img src="./readme/1.gif"/>
