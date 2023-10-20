@@ -1,9 +1,7 @@
 import { Button } from "@/components/ui/button";
 
-export default function Home() {
-    return (
-        <div className="p-4 ">
-            <Button>Hello</Button>
-        </div>
-    );
-}
+const SetupPage = () => {
+    return <div className="p-4 ">this is a protected route</div>;
+};
+
+export default SetupPage;
